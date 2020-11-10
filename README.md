@@ -1,5 +1,5 @@
 
-I am a data scientist at the University of Southampton, where I performed applied ML research in healthcare.
+I am a data scientist at the University of Southampton, where I performed applied research in healthcare.
 
 Primarily, I research the development of clinical decision support tools for use in healthcare. I lead the ML component of an Alan Turing Institute [funded project](https://www.turing.ac.uk/research/research-projects/decision-support-algorithms-emergency-departments) looking at decision support tools in emergency departments, [investigate](https://www.ecs.soton.ac.uk/news/6795) how decision support tools can help streamline fertility treatment, and look at how data self-reported to medical smartphone applications can be used to predict exacerbation events for patients who suffer from COPD as part of the [BigMedilytics project](https://www.bigmedilytics.eu/). Recently, I have also been performing [research](https://www.medrxiv.org/content/10.1101/2020.11.06.20225938v1) in response to the COVID-19 pandemic.
 
