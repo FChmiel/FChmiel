@@ -1,5 +1,5 @@
 
-I am a Senior Data Scientist at Babylon Health.
+I am a Senior Data Scientist at Babylon Healt, a digital-first healthcare provider aiming to bring affordable, accessible healthcare to everyone on earth. Here I work on developing and deploying risk prediction models using machine learning. 
 
 Previously, I worked at the University of Southampton as a applied researcher in healthcare. Here I researched the development of clinical decision support tools for use in healthcare. I led the ML component of an Alan Turing Institute [funded project](https://www.turing.ac.uk/research/research-projects/decision-support-algorithms-emergency-departments) looking at decision support tools in emergency departments, [investigated](https://www.ecs.soton.ac.uk/news/6795) how decision support tools can help streamline fertility treatment, and looked at how data self-reported to medical smartphone applications can be used to predict exacerbation events for patients who suffer from COPD as part of the [BigMedilytics project](https://www.bigmedilytics.eu/). Recently, I have also been performing [research](https://www.medrxiv.org/content/10.1101/2020.11.06.20225938v1) in response to the COVID-19 pandemic.
 
